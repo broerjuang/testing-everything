@@ -28,3 +28,6 @@ All testing module is available inside test directory. To start a program, you c
 
 ## Screenshot
 ![alt Passing](https://raw.githubusercontent.com/broerjuang/testing-everything/master/img/screem_shoot.png)
+
+## Contributor
+Juang Wiantoro &copy; 2016
