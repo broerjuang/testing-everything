@@ -1,0 +1,27 @@
+{
+  "name": "testing-everything",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  },
+  "devDependencies": {
+    "mocha": "^3.1.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blanford-fox-2016/testing-everything.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blanford-fox-2016/testing-everything/issues"
+  },
+  "homepage": "https://github.com/blanford-fox-2016/testing-everything#readme"
+}
